@@ -3,7 +3,7 @@ The selected dataset contains breast tumour tissue, paired normal tissue, and ap
 # SWYNEX - Biological Dataset Selection
 
 ## 1. Project Title
-Gene Expression Profiling in Breast Cancer**
+Gene Expression Profiling in Breast Cancer
 
 ## 2. Introduction
 This project focuses on selecting a publicly available biological dataset to study gene expression patterns associated with breast cancer.
